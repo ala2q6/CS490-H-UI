@@ -20,11 +20,16 @@
     "In the above example we can see..."
   ],
   "SPACER4" : "",
-  "The end" : [
+  "The Results" : [
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   ],
   "SPACER5" : "",
   "Credits Go To..." : [
-    "[kaggle](https://www.youtube.com/watch?v=dQw4w9WgXcQ)"
+    "[1 Star-Galaxy Dataset](https://www.kaggle.com/datasets/divyansh22/dummy-astronomy-data)",
+    "[2 Code Reference](https://www.kaggle.com/code/akzenith/auc-score-0-95-resnet-from-scratch)".
+    "[3 Code Reference](https://www.kaggle.com/code/paulinecalut/star-and-galaxy-pauline)",
+    "[4 TensorFlow](https://www.tensorflow.org/api_docs/)",
+    "[5 Keras Documentation](https://keras.io/api/)",
+    "[Plotly - Dash Documentation](https://dash.plotly.com/introduction)",
   ]
 }
