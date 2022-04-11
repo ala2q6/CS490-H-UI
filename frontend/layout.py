@@ -10,7 +10,7 @@ from UI.backend.utility import application, jsonLoad
 
 # global <
 layoutStyle = jsonLoad(file = '/frontend/layoutStyle.json')
-layoutData = 'https://raw.githubusercontent.com/ala2q6/CS490P/main/layoutData.json'
+layoutData = 'https://raw.githubusercontent.com/ala2q6/CS490H-UI/main/frontend/layoutData.json'
 
 # >
 
