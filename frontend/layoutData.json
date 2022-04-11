@@ -1,12 +1,14 @@
 {
   "TITLE" : [
-    "JA2",
-    "A UMKC HACK-A-THON PROJECT"
+    "Classification of Star-Galaxy Images Using a Neural Network",
+    "A UMKC Hack-A-Roo Project",
+    "Spring 2022",
+    "Garver and Arbuckle"
   ],
   "IMAGE1" : "https://cdn.discordapp.com/attachments/948804016320679946/963003391116709948/IC745_H01_1821_1270_3.jpg",
   "SPACER1" : "",
   "About Our Project..." : [
-    "`this is an update test`Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "The goal of this project is to use a neural network to classify astronomical objects. The astronomy dataset we are using provides us with a list of images that can be categorized into either ‘galaxy’ or ‘star’. The images have been gathered manually with a telescope and smaller 64x64 pixel cutouts have been made, centered on identifiable stars or galaxies. More information about the dataset and its collection method can be found on Kaggle<sub>[1]</sub>."
   ],
   "SPACER2" : "",
   "What We're Dealing With" : [
