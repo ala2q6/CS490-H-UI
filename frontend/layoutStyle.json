@@ -5,7 +5,7 @@
     "position" : "fixed",
     "overflow-x" : "hidden",
     "overflow-y" : "scroll",
-    "backgroundColor" : "#0052a3"
+    "backgroundColor" : "#033a66"
   },
   "rowStyle" : {
     "paddingTop" : "1%",
@@ -14,7 +14,7 @@
     "marginRight" : "6%",
     "paddingRight" : "1%",
     "paddingBottom" : "1%",
-    "backgroundColor" : "#033a66"
+    "backgroundColor" : "#0052a3"
   },
   "h1Style" : {
     "fontSize" : 60,
