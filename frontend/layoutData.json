@@ -18,8 +18,8 @@
   "SPACER3" :"",
   "About the Code..." : [
     "Below you can see our parameters for model compilation.",
-    "```py\nmodel.compile(\n\tloss = 'categorical_crossentropy',\n\tmetrics = [tf.keras.metrics.Accuracy(), tf.keras.metrics.AUC()],\n\toptimizer = optimizers.Adam(learning_rate=0.005)\n)",
-    "\```In the above example you can see that we are using the categorical cross entropy loss function. We did this because...",
+    "```py\nmodel.compile(\n\tloss = 'categorical_crossentropy',\n\tmetrics = [tf.keras.metrics.Accuracy(), tf.keras.metrics.AUC()],\n\toptimizer = optimizers.Adam(learning_rate=0.005)\n) ```",
+    "In the above example you can see that we are using the categorical cross entropy loss function. We did this because...",
     "We evaluate our model using the keras accuracy metric and the AUC (area under curve) metric. We use the AUC metric because it gives us a more accurate evaluation of binary classifiers.",
     "Lastly, we use the Adam optimizer because of its efficiency and ability to handle large datasets."
   ],
