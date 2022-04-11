@@ -17,8 +17,8 @@
   ],
   "SPACER3" :"",
   "About the Code..." : [
-    "We begin by doing the...",
-    "```py\nmodel.compile(\nloss = 'categorical_crossentropy',\nmetrics = [tf.keras.metrics.Accuracy(), tf.keras.metrics.AUC()],\noptimizer = optimizers.Adam(learning_rate=0.005)\n) ```",
+    "Below you can see our parameters for model compilation.",
+    "```py\nmodel.compile(\n\tloss = 'categorical_crossentropy',\n\tmetrics = [tf.keras.metrics.Accuracy(), tf.keras.metrics.AUC()],\n\toptimizer = optimizers.Adam(learning_rate=0.005)\n) ```",
     "In the above example we can see..."
   ],
   "SPACER4" : "",
