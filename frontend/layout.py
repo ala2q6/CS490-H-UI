@@ -3,7 +3,7 @@ from requests import get
 from dash import html, dcc
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output
-from UI.backend.utility import application, jsonLoad
+from backend.utility import application, jsonLoad
 
 # >
 
