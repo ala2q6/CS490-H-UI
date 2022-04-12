@@ -21,7 +21,10 @@
     "```py\nmodel.compile(\n\tloss = 'categorical_crossentropy',\n\tmetrics = [tf.keras.metrics.Accuracy(), tf.keras.metrics.AUC()],\n\toptimizer = optimizers.Adam(learning_rate=0.005)\n) ```",
     "In the above example you can see that we are using the categorical cross entropy loss function. We did this because...",
     "We evaluate our model using the keras accuracy metric and the AUC (area under curve) metric. We use the AUC metric because it gives us a more accurate evaluation of binary classifiers.",
-    "Lastly, we use the Adam optimizer because of its efficiency and ability to handle large datasets."
+    "Lastly, we use the Adam optimizer because of its efficiency and ability to handle large datasets.",
+    "Here, you can see what parameters we specified for fitting the model.",
+    "```py\nhistory = model.fit(\n\txTrain,\n\tyTrain,\n\tbatch_size = 64,\n\tepochs = 20,\n\tverbose = 1,\n\tvalidation_data = (xValid, yValid)\n) ```",
+    "The number of epochs has been limited and the batch size included to help prevent issues of over fitting."
   ],
   "SPACER4" : "",
   "The Results" : [
