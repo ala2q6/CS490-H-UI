@@ -8,7 +8,7 @@
   "SPACER1" : "",
   "About Our Project..." : [
     "The goal of this project is to use a neural network to classify astronomical objects. The astronomy dataset we are using provides us with a list of images that can be categorized into either ‘galaxy’ or ‘star’. The images have been gathered manually with a telescope and smaller 64x64 pixel cutouts have been made, centered on identifiable stars or galaxies. More information about the dataset and its collection method can be found on Kaggle [1].",
-    "You can view our presentation slides [here](https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=51f6598d-8d21-43bc-8932-ae75004c08a0). We talk more about our project in this short video, [here]()
+    "You can view our presentation slides [here](https://docs.google.com/presentation/d/1WgB-1u6FW17lGXoPp3Tpn12H7kjhtRUEVdbLKCxRNDw/edit?usp=sharing). We talk more about our project in this short video, [here](https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=51f6598d-8d21-43bc-8932-ae75004c08a0)
   ],
   "SPACER2" : "",
   "What We're Dealing With" : [
@@ -32,7 +32,6 @@
   "The Results" : [
     "Unfortunately, we were unable to get our model working with a consistent accuracy above 20 percent before the deadline. Throughout our work during the Hackathon, we attempted both a traditional linear network and a convolutional neural network. The linear model gave us the provided accuracy, at its best getting to about 34 percent. Although we were able to get the convolutional network functioning, we were unable to get it to execute with any reasonable accuracy. We have a few ideas about where issues may have arisen. Foremost, we think that the difference between the individual data entries is small enough to warrant a much larger network, which is reinforced by our code references. Next, because we are analyzing images, we know a convolutional network will be more effective than a linear model. Finally, a better understanding of what the network is doing would allow us to more effectively choose our layers and increase accuracy."
   ],
-  "SPACER5" : "",
   "IMAGE2" : "https://cdn.discordapp.com/attachments/948804016320679946/963296391919185930/unknown.png",
   "SPACER6" : "",
   "Credits Go To..." : [
