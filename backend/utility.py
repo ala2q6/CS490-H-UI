@@ -15,7 +15,29 @@ application = Dash(
     suppress_callback_exceptions = True
 
 )
-
 server = application.server
 
 # >
+
+
+def jsonLoad(file: str) -> dict:
+    '''  '''
+
+    # read file <
+    # get data <
+    with open(f'{directory}{file}', 'r') as fileIn:
+
+        return load(fileIn)
+
+    # >
+
+def jsonDump(file: str, data: dict) -> None:
+    '''  '''
+
+    # write file <
+    # set data <
+    with open(f'{directory}{file}', 'w') as fileOut:
+
+        dump(data, fileOut, indent = 3)
+
+    # >
