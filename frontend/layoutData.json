@@ -32,11 +32,11 @@
   ],
   "SPACER5" : "",
   "Credits Go To..." : [
-    "[1 Star-Galaxy Dataset](https://www.kaggle.com/datasets/divyansh22/dummy-astronomy-data)",
-    "[2 Code Reference](https://www.kaggle.com/code/akzenith/auc-score-0-95-resnet-from-scratch)",
-    "[3 Code Reference](https://www.kaggle.com/code/paulinecalut/star-and-galaxy-pauline)",
-    "[4 TensorFlow Documentation](https://www.tensorflow.org/api_docs/)",
-    "[5 Keras Documentation](https://keras.io/api/)",
-    "[6 Dash Documentation](https://dash.plotly.com/introduction)"
+    "1. [Star-Galaxy Dataset](https://www.kaggle.com/datasets/divyansh22/dummy-astronomy-data)",
+    "2. [Code Reference](https://www.kaggle.com/code/akzenith/auc-score-0-95-resnet-from-scratch)",
+    "3. [Code Reference](https://www.kaggle.com/code/paulinecalut/star-and-galaxy-pauline)",
+    "4. [TensorFlow Documentation](https://www.tensorflow.org/api_docs/)",
+    "5. [Keras Documentation](https://keras.io/api/)",
+    "6. [Dash Documentation](https://dash.plotly.com/introduction)"
   ]
 }
