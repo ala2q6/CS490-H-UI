@@ -1,7 +1,7 @@
 {
   "TITLE" : [
     "Classification of Star-Galaxy Images Using a Neural Network",
-    "A UMKC Hack-A-Roo Project\nSpring 2022\nGarver and Arbuckle"
+    "A UMKC Hack-A-Roo Project\nSpring 2022\n\nGarver and Arbuckle"
   ],
   "IMAGE1" : "https://cdn.discordapp.com/attachments/948804016320679946/963003391116709948/IC745_H01_1821_1270_3.jpg",
   "SPACER1" : "",
@@ -24,7 +24,7 @@
     "We evaluate our model using the keras accuracy metric and the AUC (area under curve) metric. We use the AUC metric because it gives us a more accurate evaluation of binary classifiers.",
     "Lastly, we use the Adam optimizer because of its efficiency and ability to handle large datasets.",
     "Here, you can see what parameters we specified for fitting the model.",
-    "```py\nhistory = model.fit(\n\txTrain,\n\tyTrain,\n\tbatch_size = 64,\n\tepochs = 20,\n\tverbose = 1,\n\tvalidation_data = (xValid, yValid)\n) ```",
+    "```py\nhistory = model.fit(\n\txTrain,\n\tyTrain,\n\tbatch_size = 64,\n\tepochs = 20,\n\tverbose = 1,\n\tvalidation_data = (xValid, yValid)\n)\n```",
     "The number of epochs has been limited and the batch size included to help prevent issues of over fitting."
   ],
   "SPACER4" : "",
