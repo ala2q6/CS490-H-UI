@@ -10,8 +10,7 @@
   ],
   "SPACER2" : "",
   "What We're Dealing With" : [
-    "`Lorem` ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "We originally intended to work on a project that would apply a neural network to playing candy crush. After much thought, research, and advice from our professor, we decided to reel in the scope of our project and work towards something more obtainable – classifying astronomical objects. We thought this project would be sufficiently challenging while providing us with an opportunity to work on real-world problems with common applications. Image classification is an important problem because it's constantly being applied in new fields for solving new problems."
   ],
   "SPACER3" :"",
   "About the Code..." : [
