@@ -7,7 +7,8 @@
   ],
   "SPACER1" : "",
   "About Our Project..." : [
-    "The goal of this project is to use a neural network to classify astronomical objects. The astronomy dataset we are using provides us with a list of images that can be categorized into either ‘galaxy’ or ‘star’. The images have been gathered manually with a telescope and smaller 64x64 pixel cutouts have been made, centered on identifiable stars or galaxies. More information about the dataset and its collection method can be found on Kaggle [1]."
+    "The goal of this project is to use a neural network to classify astronomical objects. The astronomy dataset we are using provides us with a list of images that can be categorized into either ‘galaxy’ or ‘star’. The images have been gathered manually with a telescope and smaller 64x64 pixel cutouts have been made, centered on identifiable stars or galaxies. More information about the dataset and its collection method can be found on Kaggle [1].",
+    "You can view our presentation slides [here](https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=51f6598d-8d21-43bc-8932-ae75004c08a0). We talk more about our project in this short video, [here]()
   ],
   "SPACER2" : "",
   "What We're Dealing With" : [
